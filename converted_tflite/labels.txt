@@ -1,0 +1,4 @@
+0 Organicos
+1 aprovechables
+2 no aprovechables
+3 peligrosos
